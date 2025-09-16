@@ -10,7 +10,7 @@ input.onGesture(Gesture.Shake, function () {
     } else if (randomNumber == 4) {
         basic.showString("Ask later")
     } else {
-        basic.showString("I dunno")
+        basic.showString("Hello from github")
     }
     basic.showNumber(8)
 })
